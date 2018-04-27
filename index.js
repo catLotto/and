@@ -1,6 +1,6 @@
 /*
  * Normal Mode
-const a = new Thec('div')
+const a = new And('div')
 .$appendParent(document.body)
 .id('contents')
 .className('app');
@@ -20,7 +20,7 @@ const d = c.$prevCreateTo('span')
 a !== b !== c !== d
 
  * Build Mode
-const a = new Thec('build', 'div')
+const a = new And('build', 'div')
 .$appendParent(document.body)
 .id('contents')
 .className('app');
