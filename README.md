@@ -1,6 +1,8 @@
 # And.js
 Super Extremely light DOM control library. And.js wraps a DOM Element with an And object, making it possible to use native methods continuously.
 
+Example:
+
     const a = new And('div')
       .$appendParent(document.body)
       .id('contents')
