@@ -1,5 +1,5 @@
 # And.js
-Super Extremely light DOM control library. And.js wraps a DOM Element with an And object, making it possible to use native methods continuously.
+Super Extremely light DOM control library, yet... And.js wraps a DOM Element with an And object, making it possible to use native methods continuously.
 
 Example:
 
